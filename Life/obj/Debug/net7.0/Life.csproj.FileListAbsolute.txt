@@ -1,0 +1,14 @@
+/Users/alex/Desktop/Life/Life/bin/Debug/net7.0/Life
+/Users/alex/Desktop/Life/Life/bin/Debug/net7.0/Life.deps.json
+/Users/alex/Desktop/Life/Life/bin/Debug/net7.0/Life.runtimeconfig.json
+/Users/alex/Desktop/Life/Life/bin/Debug/net7.0/Life.dll
+/Users/alex/Desktop/Life/Life/bin/Debug/net7.0/Life.pdb
+/Users/alex/Desktop/Life/Life/obj/Debug/net7.0/Life.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Desktop/Life/Life/obj/Debug/net7.0/Life.AssemblyInfoInputs.cache
+/Users/alex/Desktop/Life/Life/obj/Debug/net7.0/Life.AssemblyInfo.cs
+/Users/alex/Desktop/Life/Life/obj/Debug/net7.0/Life.csproj.CoreCompileInputs.cache
+/Users/alex/Desktop/Life/Life/obj/Debug/net7.0/Life.dll
+/Users/alex/Desktop/Life/Life/obj/Debug/net7.0/refint/Life.dll
+/Users/alex/Desktop/Life/Life/obj/Debug/net7.0/Life.pdb
+/Users/alex/Desktop/Life/Life/obj/Debug/net7.0/Life.genruntimeconfig.cache
+/Users/alex/Desktop/Life/Life/obj/Debug/net7.0/ref/Life.dll

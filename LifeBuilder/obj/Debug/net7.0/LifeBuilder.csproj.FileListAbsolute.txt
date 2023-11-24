@@ -1,0 +1,14 @@
+/Users/alex/Desktop/Life/LifeBuilder/bin/Debug/net7.0/LifeBuilder
+/Users/alex/Desktop/Life/LifeBuilder/bin/Debug/net7.0/LifeBuilder.deps.json
+/Users/alex/Desktop/Life/LifeBuilder/bin/Debug/net7.0/LifeBuilder.runtimeconfig.json
+/Users/alex/Desktop/Life/LifeBuilder/bin/Debug/net7.0/LifeBuilder.dll
+/Users/alex/Desktop/Life/LifeBuilder/bin/Debug/net7.0/LifeBuilder.pdb
+/Users/alex/Desktop/Life/LifeBuilder/obj/Debug/net7.0/LifeBuilder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Desktop/Life/LifeBuilder/obj/Debug/net7.0/LifeBuilder.AssemblyInfoInputs.cache
+/Users/alex/Desktop/Life/LifeBuilder/obj/Debug/net7.0/LifeBuilder.AssemblyInfo.cs
+/Users/alex/Desktop/Life/LifeBuilder/obj/Debug/net7.0/LifeBuilder.csproj.CoreCompileInputs.cache
+/Users/alex/Desktop/Life/LifeBuilder/obj/Debug/net7.0/LifeBuilder.dll
+/Users/alex/Desktop/Life/LifeBuilder/obj/Debug/net7.0/refint/LifeBuilder.dll
+/Users/alex/Desktop/Life/LifeBuilder/obj/Debug/net7.0/LifeBuilder.pdb
+/Users/alex/Desktop/Life/LifeBuilder/obj/Debug/net7.0/LifeBuilder.genruntimeconfig.cache
+/Users/alex/Desktop/Life/LifeBuilder/obj/Debug/net7.0/ref/LifeBuilder.dll
